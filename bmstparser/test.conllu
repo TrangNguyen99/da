@@ -1,0 +1,6 @@
+# sent_id = test-s800
+# text = tôi đi học.
+1	tôi	tôi	NOUN	N	_	1	advcl	_	_
+2	đi	đi	VERB	V	_	2	xcomp	_	_
+3	học	học	CCONJ	C	_	3	cc	_	_
+16	.	.	PUNCT	.	_	4	punct	_	_
